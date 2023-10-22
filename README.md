@@ -1,2 +1,1 @@
-# Packet-Ninja
-un script Python qui effectue un test d'intrusion sur un système d'exploitation Linux spécifique en utilisant des techniques de fuzzing. 
+Le script utilise la bibliothèque Python pwntools pour générer des données aléatoires et les envoyer à des services et des applications vulnérables. Si le service ou l'application se bloque ou se comporte de manière inattendue, cela peut indiquer la présence d'une vulnérabilité
